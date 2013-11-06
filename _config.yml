@@ -1,0 +1,4 @@
+name: Your New Jekyll Site
+markdown: kramdown
+pygments: true
+exclude: ['_sass', '*.sublime-*', 'README.md', 'Gemfile*']
